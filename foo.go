@@ -5,3 +5,6 @@ const Foo = "bar"
 
 // Bar is foo
 const Bar = "foo"
+
+// Baz is boo
+const Baz = "boo"
